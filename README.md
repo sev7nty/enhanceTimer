@@ -10,7 +10,7 @@
 ## Example
     
     import (
-        "enhanceTimer";
+        "enhanceTimer"
     )
 
     func main() {
