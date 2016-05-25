@@ -10,7 +10,6 @@
 ## Example
     
     import (
-        "timer"  //the standard golang package;
         "enhanceTimer";
     )
 
